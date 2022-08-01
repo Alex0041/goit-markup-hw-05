@@ -712,6 +712,10 @@ transform: translate(0, 100%);
 transition: transform var(--time-function);
 }
 
+.all-sites {
+  color: var(--primary-text-color);
+}
+
 .link-sample-projects:hover .sample-work-popup,
 .link-sample-projects:focus .sample-work-popup {
   transform: translate(0, 0);
