@@ -277,11 +277,6 @@ background-size: contain;
   border: 0;
 }
 
-/*.icon-list-advantage {
-  display: flex;
-  gap: 30px;
-}*/
-
 .advantage-description {
   display: flex;
   align-items: center;
